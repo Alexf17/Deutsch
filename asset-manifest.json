@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Deutsch/static/css/main.c5e3c316.css",
+    "main.js": "/Deutsch/static/js/main.c5d665f4.js",
+    "static/js/304.56e1980b.chunk.js": "/Deutsch/static/js/304.56e1980b.chunk.js",
+    "static/js/643.809f638b.chunk.js": "/Deutsch/static/js/643.809f638b.chunk.js",
+    "static/js/977.ad3cc5ee.chunk.js": "/Deutsch/static/js/977.ad3cc5ee.chunk.js",
+    "static/media/Bell-Centennia.png": "/Deutsch/static/media/Bell-Centennia.6b1fa26b71309c4c97b3.png",
+    "index.html": "/Deutsch/index.html",
+    "main.c5e3c316.css.map": "/Deutsch/static/css/main.c5e3c316.css.map",
+    "main.c5d665f4.js.map": "/Deutsch/static/js/main.c5d665f4.js.map",
+    "304.56e1980b.chunk.js.map": "/Deutsch/static/js/304.56e1980b.chunk.js.map",
+    "643.809f638b.chunk.js.map": "/Deutsch/static/js/643.809f638b.chunk.js.map",
+    "977.ad3cc5ee.chunk.js.map": "/Deutsch/static/js/977.ad3cc5ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e3c316.css",
+    "static/js/main.c5d665f4.js"
+  ]
+}
