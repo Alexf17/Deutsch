@@ -2,9 +2,6 @@
 
 body {
   margin: 0;
-  background-image: url('../assets/Bell-Centennia.png');
-  background-size: 120%;
-  background-position: 50% 50%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -39,5 +36,9 @@ ol {
 }
 
 a {
-  text-decoration:none
+  text-decoration: none
+}
+
+.bold{
+  font-weight: 900;
 }
